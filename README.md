@@ -12,7 +12,3 @@ ABC Corp app is a web application in order to understand behavior of bugs and vu
 Access to
 
     http://localhost:8080
-
- ### Credits:
-  https://github.com/k-tamura/
-
